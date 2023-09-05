@@ -16,23 +16,23 @@ I must start implementing papers:
 
 1. build your own ResNet. 
 2. Style Transfer Network:
-    a. Transfer styles from one network to an image.
-    b. Build a network that does (a)
-    c. DeepDream.
+    - Transfer styles from one network to an image.
+    - Build a network that does (a)
+    - DeepDream.
 3. Segmentation Tasks:
-    a. Buid U-Net.
-    b. Build Deeplab and Deeplab+
+    - Buid U-Net.
+    - Build Deeplab and Deeplab+
 4. Generative Models:
-    a. Build conditional GAN: DCGAN
-    b. Build simple Diffusion Model (Hot Topic!!! --  very important)
-    c. Master StyleGAN.
+    - Build conditional GAN: DCGAN
+    - Build simple Diffusion Model (Hot Topic!!! --  very important)
+    - Master StyleGAN.
 5. Transformers for vision:
-    a. Build an image is worth 16x16 words.
+  - Build an image is worth 16x16 words.
 6. Study 3D Models:
-    a. Nerf: look at EG3D.
-    b. Point Cloud: Build PointNet.
+    - Nerf: look at EG3D.
+    - Point Cloud: Build PointNet.
 7. Domain Adaptation:
-    a. Build ProtoNet.
+    - Build ProtoNet.
 
 ## Courses to take
 
