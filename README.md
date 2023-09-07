@@ -6,11 +6,13 @@ I'll try to document my journey here, but for now I'm also gonna be dumping the 
 
 I must start implementing papers:
 
+- (bonus) [micrograd](https://github.com/karpathy/micrograd)
 - Attention paper
 - Transformers (Attention is all you need)
 - An image is worth 16x16 words
-- GPT2
+- GPT2 (maybe use this as a reference: https://github.com/karpathy/minGPT)
 - LLama
+- follow https://github.com/karpathy/nanoGPT
 
 ## Computer vision recommendations by Saud Alrasheed
 
