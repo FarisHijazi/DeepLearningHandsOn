@@ -1,4 +1,8 @@
-pre-commit
+easydict
 jupyter
 notebook
-
+pre-commit
+torch==2
+torchvision
+tqdm
+wandb
