@@ -16,7 +16,7 @@ I must start implementing papers:
 
 ## Computer vision recommendations by Saud Alrasheed
 
-1. build your own ResNet. 
+1. build your own ResNet.
 2. Style Transfer Network:
     - Transfer styles from one network to an image.
     - Build a network that does (a)
